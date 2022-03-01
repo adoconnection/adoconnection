@@ -2,6 +2,8 @@ I wonder how it is to have 1k stars ⭐😄 448 remaining..
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=adoconnection&theme=graywhite&show_icons=false)
 
+<a href="https://stackexchange.com/users/99037"><img src="https://stackexchange.com/users/flair/99037.png?theme=clean" width="208" height="58" alt="profile for Alexander Selishchev on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Alexander Selishchev on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+
 <!--
 **adoconnection/adoconnection** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
