@@ -1,4 +1,4 @@
-I wonder how it is to have 1k stars ⭐😄 448 remaining..
+I wonder how it is to have 1k stars ⭐😄 444 remaining..
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=adoconnection&theme=graywhite&show_icons=false)
 
