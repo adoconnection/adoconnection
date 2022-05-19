@@ -10,6 +10,8 @@ Thank you for dropping by.
 * Founder of suggestapp - ML powered API that understands your taste (wine, beer) and suggest products you will like for sure.
 * Former WildApricot / Personify developer
 
+Results of my work are being used by millions around the globe
+
 
 # I wonder how it is to have 1k stars ⭐😄 400 remaining.. 😎
 
