@@ -1,10 +1,6 @@
-I wonder how it is to have 1k stars ⭐😄 400 remaining.. 😎
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=adoconnection&theme=graywhite&show_icons=false)
+# Hi! Nice to meet you.
 
-<a href="https://stackexchange.com/users/99037"><img src="https://stackexchange.com/users/flair/99037.png?theme=clean" width="208" height="58" alt="profile for Alexander Selishchev on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Alexander Selishchev on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
-
-Hi! Nice to meet you.
 Thank you for dropping by.
 
 * Founder of Limetime.io - Sports timing hadrware and software
@@ -13,3 +9,10 @@ Thank you for dropping by.
 * Founder of thebestshelf.ru - ML powered shelf product placement tool for retail
 * Founder of suggestapp - ML powered API that understands your taste (wine, beer) and suggest products you will like for sure.
 * Former WildApricot / Personify developer
+
+
+# I wonder how it is to have 1k stars ⭐😄 400 remaining.. 😎
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=adoconnection&theme=graywhite&show_icons=false)
+
+<a href="https://stackexchange.com/users/99037"><img src="https://stackexchange.com/users/flair/99037.png?theme=clean" width="208" height="58" alt="profile for Alexander Selishchev on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Alexander Selishchev on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
