@@ -3,7 +3,7 @@
 
 Thank you for dropping by.
 
-* Founder of Limetime.io - Sports timing hadrware and software
+* Founder of Limetime.io - Sports timing hardware and software
 * Founder of Documentoved.ru - Russian legal-tech document saas (LLC, contracts)
 * Founder of Pangali.ru - Sports leisure booking app
 * Founder of thebestshelf.ru - ML powered shelf product placement tool for retail
