@@ -13,7 +13,7 @@ Thank you for dropping by.
 Results of my work are used by millions around the globe
 
 
-# I wonder how it is to have 1k stars ⭐😄 14 remaining! 🚀 😎
+# I wonder how it is to have 1k stars ⭐😄 7 remaining! 🚀 😎
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=adoconnection&theme=graywhite&show_icons=false)
 
