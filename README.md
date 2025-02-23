@@ -4,7 +4,7 @@
 Thank you for dropping by.
 
 * Founder of Limetime.io - RFID Sports timing system hardware and software
-* Founder of Documentoved.ru - Russian legal-tech document saas (LLC, contracts)
+* Founder of Documentoved.ru - Russian legal-tech document builder saas (LLC, contracts)
 * Founder of Pangali.ru - Sports leisure booking app
 * Founder of thebestshelf.ru - ML powered shelf product placement tool for retail
 * Founder of suggestapp - ML powered API that understands your taste (wine, beer) and suggest products you will like for sure.
@@ -13,7 +13,7 @@ Thank you for dropping by.
 Results of my work are used by millions around the globe
 
 
-# I wonder how it is to have 1k stars ⭐😄 7 remaining! 🚀 😎
+# I wonder how it is to have 1k stars ⭐😄 2 remaining! 🚀 😎
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=adoconnection&theme=graywhite&show_icons=false)
 
